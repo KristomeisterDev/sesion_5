@@ -1,0 +1,24 @@
+
+
+.box{
+  width: 350px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  background-color: rgb(216, 216, 216);
+}
+
+#box1{
+   border: dotted ;
+   border-width: 10px;
+}
+
+#box2{
+    border-style: dashed solid;
+    border-width: 10px;
+}
+
+#box3{
+    border-style: dashed groove none dotted;
+    border-width: 10px;
+}
